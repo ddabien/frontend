@@ -1,0 +1,32 @@
+.row {
+    padding: 30px
+}
+div {
+    background-color: #cad8c7;
+    text-align: center;
+}
+
+/* Etiqueta miNombre es mi nombre en la pagina */
+#miNombre{
+    font-weight: bold;
+    font-size: large;
+    margin-top: 10%;
+}
+
+/* Etiqueta miFoto es mi foto de perfil en la pagina */
+@media (min-width: 576px) {
+    #miFoto {
+        position: absolute;
+        width: 10%;
+        box-shadow: 2px 2px 2px #78afac;
+        left: 5%;
+        border-radius: 100%;
+    }      
+}
+
+
+/*etiqueta nombre*/
+#nombre{
+    font-weight: bold;
+    margin-top: 30%;
+}

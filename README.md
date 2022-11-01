@@ -1,4 +1,64 @@
-# ProyectoFinal
+# Trabajo FINAL INTEGRADOR TP 
+- Argentina Programa 2022 - 3era Edición
+Hugo Daniel Dabien
+
+-----------------------------------------------------------------
+https://frontend-hdd.web.app/
+-----------------------------------------------------------------
+
+
+Desarrollo de aplicación web full stack.
+
+----------------------------------------------------------------
+
+Ingreso por Login: 
+Usuario: admin
+Password: admin
+
+Instrucciones ingrese y aguarde alrededor de 5 segundos para acceder a la página
+
+----------------------------------------------------------------
+
+Detalles del proyecto:
+El proyecto fue generado en Angular contando con los siguiente módulos y componentes:
+ - home
+ - login
+ - header
+ - banner
+ - acerca de
+ - educacion
+ - experiencia
+ - hard y soft (skills)
+ - footer
+
+Se crearon los siguiente servicios: 
+- auth.service
+- educacion.service
+- interceptor.service
+- persona.service
+- experiencia.service
+- skill.service
+- token.service
+
+El sistema fue subido a la nube en la plataforma de desarrollo de apps Firebase
+
+----------------------------------------------------------------------
+
+
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/104176100/199209076-5af3c164-8cbb-4e7c-8ffd-8422d447c35e.png)
+![image](https://user-images.githubusercontent.com/104176100/199209157-609d7fe2-854a-4642-b46f-b23290a7c653.png)
+![image](https://user-images.githubusercontent.com/104176100/199209222-8eaaeaa9-1417-4189-9be1-db34f8562b27.png)
+
+
+
+---------------------------------------------------------
+
+Frontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 

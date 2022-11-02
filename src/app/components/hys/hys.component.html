@@ -28,11 +28,11 @@
 
         <div>
             <td *ngIf="isLogged">
-                <button class="btn btn-light" routerLink="/editskill/{{skill.id}}">
+                <button class="btn btn-info" routerLink="/editskill/{{skill.id}}">
                     <i class="bi bi-pencil-fill"></i></button>
             </td>
             <td *ngIf="isLogged">
-                <button class="btn btn-danger" (click)="delete(skill.id)">
+                <button class="btn btn-warning" (click)="delete(skill.id)">
                     <i class="bi bi-trash-fill"></i></button>
             </td>
         </div>

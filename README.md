@@ -18,9 +18,11 @@ Password: admin
 Instrucciones ingrese y aguarde alrededor de 5 segundos para acceder a la página
 
 ----------------------------------------------------------------
-![Captura antes con comentarios_001](https://user-images.githubusercontent.com/104176100/201452846-47a8dd3a-bd71-445f-9772-ebead022e0f2.jpg)
-![Captura con comentarios_001](https://user-images.githubusercontent.com/104176100/201452854-15eb2f88-0b6a-4636-bbef-dcec55478a88.jpg)
-![Captura edicion con comentarios_001](https://user-images.githubusercontent.com/104176100/201452860-2fb64fcc-763e-4b35-9299-633094530745.jpg)
+
+![Captura antes con comentarios_001](https://user-images.githubusercontent.com/104176100/201453024-1703b213-5a2f-42ac-b9df-642b320fd697.jpg)
+![Captura con comentarios_001](https://user-images.githubusercontent.com/104176100/201453035-0ab6eecb-5790-4cb7-9c57-b0f2bb77d3f7.jpg)
+![Captura edicion con comentarios_001](https://user-images.githubusercontent.com/104176100/201453026-1c6f6895-865f-4e3f-8951-4a57d4ce9d0b.jpg)
+
 
 
 
@@ -52,12 +54,6 @@ El sistema fue subido a la nube en la plataforma de desarrollo de apps Firebase
 
 
 
-
-
-
-![image](https://user-images.githubusercontent.com/104176100/199209076-5af3c164-8cbb-4e7c-8ffd-8422d447c35e.png)
-![image](https://user-images.githubusercontent.com/104176100/199209157-609d7fe2-854a-4642-b46f-b23290a7c653.png)
-![image](https://user-images.githubusercontent.com/104176100/199209222-8eaaeaa9-1417-4189-9be1-db34f8562b27.png)
 
 
 

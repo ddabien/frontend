@@ -18,6 +18,11 @@ Password: admin
 Instrucciones ingrese y aguarde alrededor de 5 segundos para acceder a la página
 
 ----------------------------------------------------------------
+![Captura antes con comentarios_001](https://user-images.githubusercontent.com/104176100/201452846-47a8dd3a-bd71-445f-9772-ebead022e0f2.jpg)
+![Captura con comentarios_001](https://user-images.githubusercontent.com/104176100/201452854-15eb2f88-0b6a-4636-bbef-dcec55478a88.jpg)
+![Captura edicion con comentarios_001](https://user-images.githubusercontent.com/104176100/201452860-2fb64fcc-763e-4b35-9299-633094530745.jpg)
+
+
 
 Detalles del proyecto:
 El proyecto fue generado en Angular contando con los siguiente módulos y componentes:

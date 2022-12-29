@@ -24,6 +24,7 @@ Instrucciones ingrese y aguarde alrededor de 5 segundos para acceder a la págin
 ![Captura antes con comentarios_001](https://user-images.githubusercontent.com/104176100/201453024-1703b213-5a2f-42ac-b9df-642b320fd697.jpg)
 ![Captura con comentarios_001](https://user-images.githubusercontent.com/104176100/201453035-0ab6eecb-5790-4cb7-9c57-b0f2bb77d3f7.jpg)
 ![Captura edicion con comentarios_001](https://user-images.githubusercontent.com/104176100/201453026-1c6f6895-865f-4e3f-8951-4a57d4ce9d0b.jpg)
+[EntregaArgentinaPrograma.pdf](https://github.com/ddabien/frontend/files/10317109/EntregaArgentinaPrograma.pdf)
 
 
 
